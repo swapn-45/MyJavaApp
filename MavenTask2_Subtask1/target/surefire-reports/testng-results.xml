@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-13T15:01:32 IST" name="Selenium TestNG Suite" finished-at="2025-06-13T15:01:40 IST" duration-ms="8435">
+    <groups>
+    </groups>
+    <test started-at="2025-06-13T15:01:32 IST" name="UITestsOnly" finished-at="2025-06-13T15:01:40 IST" duration-ms="8435">
+      <class name="Subtask1.CartSkipTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Subtask1.CartSkipTest@799f10e1]" started-at="2025-06-13T15:01:32 IST" name="setUp" finished-at="2025-06-13T15:01:35 IST" duration-ms="2733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testCartFunction()[pri:0, instance:Subtask1.CartSkipTest@799f10e1]" started-at="2025-06-13T15:01:35 IST" name="testCartFunction" finished-at="2025-06-13T15:01:35 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCartFunction -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Subtask1.CartSkipTest@799f10e1]" started-at="2025-06-13T15:01:35 IST" name="tearDown" finished-at="2025-06-13T15:01:35 IST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Subtask1.CartSkipTest -->
+      <class name="Subtask1.LoginUITest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Subtask1.LoginUITest@4c371370]" started-at="2025-06-13T15:01:35 IST" name="setUp" finished-at="2025-06-13T15:01:36 IST" duration-ms="1754" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginPage()[pri:0, instance:Subtask1.LoginUITest@4c371370]" started-at="2025-06-13T15:01:36 IST" name="testLoginPage" finished-at="2025-06-13T15:01:36 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Subtask1.LoginUITest@4c371370]" started-at="2025-06-13T15:01:36 IST" name="tearDown" finished-at="2025-06-13T15:01:37 IST" duration-ms="137" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Subtask1.LoginUITest -->
+      <class name="Subtask1.PaymentTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Subtask1.PaymentTest@145f66e3]" started-at="2025-06-13T15:01:37 IST" name="setUp" finished-at="2025-06-13T15:01:38 IST" duration-ms="1670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPaymentProcess()[pri:0, instance:Subtask1.PaymentTest@145f66e3]" started-at="2025-06-13T15:01:38 IST" name="testPaymentProcess" finished-at="2025-06-13T15:01:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPaymentProcess -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Subtask1.PaymentTest@145f66e3]" started-at="2025-06-13T15:01:38 IST" name="tearDown" finished-at="2025-06-13T15:01:38 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Subtask1.PaymentTest -->
+      <class name="Subtask1.SearchUITest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Subtask1.SearchUITest@3023df74]" started-at="2025-06-13T15:01:38 IST" name="setUp" finished-at="2025-06-13T15:01:40 IST" duration-ms="1697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testSearchFunction()[pri:0, instance:Subtask1.SearchUITest@3023df74]" started-at="2025-06-13T15:01:40 IST" name="testSearchFunction" finished-at="2025-06-13T15:01:40 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchFunction -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Subtask1.SearchUITest@3023df74]" started-at="2025-06-13T15:01:40 IST" name="tearDown" finished-at="2025-06-13T15:01:40 IST" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Subtask1.SearchUITest -->
+    </test> <!-- UITestsOnly -->
+  </suite> <!-- Selenium TestNG Suite -->
+</testng-results>
